@@ -3,7 +3,7 @@
 	<a href="https://oscicen.github.io"><img src="https://github.com/oscicen/JavaLearn/raw/master/java.png" ></a>
 </p>
 <p align="center">
-    My Java learning jorney.
+    My Java learning journey.
 </p>
 <p align="center">
 	If you are interested in helping feel free to make a pull request.
